@@ -38,3 +38,28 @@ img {
   #imgp {
     margin: 15px 0 5px 0;
   }
+
+  ul {
+    max-width: 555px;
+    margin: 0 auto 55px auto;
+    text-align: left;
+    line-height: 1.7;
+  }
+  
+  li {
+    margin: 20px 0;
+  }
+
+  #tit {
+    margin: 50px 0;
+    text-align: center;
+  }
+
+
+  #book
+  {
+    font-style: italic;
+    max-width: 555px;
+    margin: 0 auto 55px auto;
+    text-align: left;
+  }
