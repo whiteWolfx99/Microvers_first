@@ -9,7 +9,7 @@ body
     line-height: 1.5;
     text-align: center;
     color: #333;
-   
+
 }
 
 h1 {
@@ -28,13 +28,29 @@ img {
     height: auto;
     margin: 0 auto;
   }
-  
+
   #container {
     background: white;
     padding: 10px;
-    
+
   }
-  
+
   #imgp {
     margin: 15px 0 5px 0;
+  }
+
+  ul {
+    max-width: 555px;
+    margin: 0 auto 55px auto;
+    text-align: left;
+    line-height: 1.7;
+  }
+
+  li {
+    margin: 20px 0;
+  }
+
+  h3 {
+    margin: 50px 0;
+    text-align: center;
   }
